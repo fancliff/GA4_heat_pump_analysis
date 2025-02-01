@@ -1,0 +1,41 @@
+Enter fluid name (see CoolProp docs for list): R134a
+
+Enter Condenser Pressure Drop in bar: 0.05
+
+Enter Evaporator Pressure Drop in bar: 0.1
+
+Enter Compressor Isentropic Efficiency: 0.85
+
+Enter throttle exit temperature in Celsisus: 13.5
+
+Enter Compressor exit temperature in Celsius: 70
+
+Enter enthalpy difference from dry saturated at point 1 (h1act-h1sat) (kJ/kg): 5
+
+Enter enthalpy difference from wet saturated at point 3 (h3act-h3sat) (kJ/kg): 5
+
+Cycle salient values
+
+P1:  4.552740154198623  bar
+T1:  18.078957922786003  C
+h1:  410.8883329153215  kJ/kg
+s1:  1.7382081901556472  kJ/kg.K
+
+P2:  21.168256950330274  bar
+T2:  70.0  C
+h2:  444.0430488095802  kJ/kg
+s2:  1.739805958653062  kJ/kg.K
+
+P3:  21.118256950330274  bar
+T3:  69.89438192198708  C
+h3:  309.0993071334906  kJ/kg
+s3:  1.347232630222921  kJ/kg.K
+
+P4:  4.652740154198622  bar
+T4:  13.5  C
+h4:  309.0993071334906  kJ/kg
+s4:  1.381669844595526  kJ/kg.K
+
+win:  33.15471589425876  kJ/kg
+qout:  134.94374167608964  kJ/kg
+COP:  4.070122093836346
